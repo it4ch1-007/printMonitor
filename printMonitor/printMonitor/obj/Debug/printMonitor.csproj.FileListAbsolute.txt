@@ -1,0 +1,7 @@
+C:\Users\akshi\Downloads\printMonitor\printMonitor\bin\Debug\printMonitor.exe.config
+C:\Users\akshi\Downloads\printMonitor\printMonitor\bin\Debug\printMonitor.exe
+C:\Users\akshi\Downloads\printMonitor\printMonitor\bin\Debug\printMonitor.pdb
+C:\Users\akshi\Downloads\printMonitor\printMonitor\obj\Debug\printMonitor.csproj.AssemblyReference.cache
+C:\Users\akshi\Downloads\printMonitor\printMonitor\obj\Debug\printMonitor.csproj.CoreCompileInputs.cache
+C:\Users\akshi\Downloads\printMonitor\printMonitor\obj\Debug\printMonitor.exe
+C:\Users\akshi\Downloads\printMonitor\printMonitor\obj\Debug\printMonitor.pdb
